@@ -8,4 +8,4 @@ The system utilizes a MySQL database to store information about books and user r
 
 Overall, the Book Recommendation System project is an application that can help users discover new books based on the ratings given by other users who have similar preferences.
 
-![alt text](https://github.com/SanfordJone/Book-Recommendation-System/readme_assets/login.png?raw=true)
+![alt text](https://github.com/SanfordJone/Book-Recommendation-System/blob/main/readme_assets/Login.png?raw=true)
