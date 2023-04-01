@@ -7,3 +7,5 @@ The user interface provides an autocomplete search box that suggests book titles
 The system utilizes a MySQL database to store information about books and user ratings. The application's back-end is implemented using Python and Flask, which provides the web framework for the application. The front-end interface is developed using HTML, CSS, and JavaScript.
 
 Overall, the Book Recommendation System project is an application that can help users discover new books based on the ratings given by other users who have similar preferences.
+
+![alt text](https://github.com/SanfordJone/Book-Recommendation-System/blob/readme_assets/login.png?raw=true)
